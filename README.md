@@ -1,81 +1,72 @@
-<!-- HEADER ANIMATION -->
+<!-- HEADER -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4facfe,100:00f2fe&height=200&section=header&text=Bhakti%20Rulhe&fontSize=40&fontColor=ffffff&animation=fadeIn" />
 </p>
 
 <!-- TYPING EFFECT -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&lines=Data+Analyst;Python+Developer;Machine+Learning+Enthusiast;Power+BI+Specialist" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&lines=Data+Science+Student;AI+%2F+ML+Enthusiast;Generative+AI+Learner;FastAPI+Developer" />
 </p>
 
 ---
 
 # 👩‍💻 About Me  
 
-💡 Data Science student passionate about **analytics, ML & business insights**  
-📊 Skilled in **Python, SQL, Power BI, Machine Learning**  
-🚀 Building real-world projects using **AI & automation**  
+💡 Data Science student passionate about **Machine Learning & Generative AI**  
+🤖 Hands-on experience with **LangChain, LangGraph, FastAPI & LLMs**  
+🚀 Built real-world projects including **AI Chatbots & ML Models**  
 
 ---
 
 # 🛠️ Tech Stack  
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,sql,js,html,css" />
+  <img src="https://skillicons.dev/icons?i=python,sql,js" />
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi" />
+  <img src="https://img.shields.io/badge/LangChain-black?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/LangGraph-blue?style=for-the-badge" />
   <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Machine%20Learning-orange?style=for-the-badge" />
 </p>
-
----
-
-# 🚀 Featured Projects  
-
-## 🍷 Wine Quality Prediction  
-📊 ML Model with **85% accuracy**  
-⚡ Random Forest (F1-score: 0.82)  
-🌐 Django-based web app  
-
----
-
-## 📈 Sales Forecasting Dashboard  
-📊 ARIMA Model (~70% accuracy)  
-📂 1500+ records analyzed  
-📊 Interactive Plotly dashboard  
-
----
-
-## 🤖 AI Chatbot  
-🧠 LangChain + LLM API  
-🌐 Real-time search integration  
-⚡ Prompt engineering  
 
 ---
 
 # 💼 Experience  
 
-### 👩‍🏫 Data Science Trainer – Codiant  
-✔ Agile & Scrum exposure  
-✔ Jira workflow handling  
-✔ Project coordination  
-
-### 💻 Web Development Intern – InternPe  
-✔ Agile understanding  
-✔ Documentation & coordination  
+### Data Science Trainee – Codiant  
+- Built a **multi-agent AI chatbot** using LangChain & LangGraph  
+- Developed backend APIs using **FastAPI** for real-time responses  
+- Applied **prompt engineering & memory handling** for better chatbot performance  
+- Used **Milvus vector database** for semantic search  
+- Worked on **LLM-based applications and RAG concepts**  
 
 ---
 
-# 📊 GitHub Analytics  
+# 🚀 Projects  
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" height="150"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight" height="150"/>
-</p>
+## 🤖 AI Chatbot (LLM-based)  
+- Built chatbot using **LangChain with LLM API integration**  
+- Implemented **prompt chaining & tool-calling**  
+- Integrated real-time data using external APIs  
 
 ---
+
+## 🍷 Wine Quality Prediction  
+- Built ML model using **Random Forest (~85% accuracy)**  
+- Performed **EDA, feature engineering, SMOTE**  
+- Deployed using **Django for real-time prediction**  
+
+---
+
+## 📈 Sales Forecasting Dashboard  
+- Built **ARIMA model (~70% accuracy)**  
+- Analyzed **1500+ records**  
+- Created **interactive Plotly dashboard**  
+
+---
+
 
 # 🌐 Connect With Me  
 
